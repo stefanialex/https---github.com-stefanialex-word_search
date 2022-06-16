@@ -7,7 +7,8 @@ Je vous ai préparé une page web sans prétention.
 Vous devez:
 
 trouver 5 mots ou phrases cachés.
-Expliquer comment ils ont eté cachés.
+
+Expliquer comment ils ont été cachés.
 
 J'ai eu des idées après avec d'autres méthodes mais je garde cela sous le coude pour le prochain jeu si  vous avez aimé celui-ci.
 
@@ -16,6 +17,7 @@ J'ai eu des idées après avec d'autres méthodes mais je garde cela sous le cou
 
 A simple game.
 I've prepared an unpretentious web page for you.
+
 Inside are some words or sentences (note that not everything is in the HTML code)
  
 You have to:
