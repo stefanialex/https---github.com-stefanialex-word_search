@@ -26,4 +26,4 @@ Explain how they were hidden.
 
 I had some ideas afterwards with other methods but I'll keep this under consideration for the next game if you liked this one.
 
-Translated with www.DeepL.com/Translator (free version)
+
